@@ -4,3 +4,4 @@
 | 2    | 2023.6.27 | 이벤트 루프와 콜 스택의 작동 원리 | 자바스크립트의 비동기 처리 방식을 딥 다이브 해보기                                                    | [링크](https://www.notion.so/26de8f3da3634b54bd0da84a7291be37)                                                    |
 | 3    | 2023.6.28 | 가비지 컬렉터                     | 자바스크립트의 가비지 컬렉터에 대해 알아보며, 메모리 누수를 방지하기 위한 4가지 case에 대해 알아보자. | [링크](https://www.notion.so/f8a0e9d3844e446ebbe3e4e934fbbfd2)                                                    |
 | 4    | 2023.6.29 | Callback                          | 콜백함수가 무엇이고, 어떤 역할을 하는지, 콜백함수의 다양한 패턴에 대해 알아보자.                      | [링크](https://www.notion.so/JavaScript-b92a5bd919a34383b956621ae56ca946?p=77c4cd2c2058460aa3132d1de33ddae1&pm=s) |
+| 5    | 2023.6.30 | Promise                           | 프로미스가 등장한 배경과 정의, 4가지 상태와 다양한 메서드들에 대해 알아보자.                          | [링크](https://www.notion.so/JavaScript-b92a5bd919a34383b956621ae56ca946?p=a4c91f188fad45a4b21abbecd4b4f1e5&pm=s) |
